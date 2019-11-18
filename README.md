@@ -1,5 +1,6 @@
 # XFCircleCornersButtonControlDemo
-This is the demo project I did on Custom Renderers at the Dot Net Meetup, hosted by Microsoft April/2016 (http://www.meetup.com/NET-Developers-SG/)
+Tech talk: Xamarin Forms Custom Renderers for the Rescue
+This is the demo project of the tech talk I did, on Custom Renderers at the Dot Net Meetup, hosted by Microsoft April/2016 (http://www.meetup.com/NET-Developers-SG/)
 
 So basically what I showcased was how to create a Button that has Circled/Ellipsed Corners with Xamarin Forms Custom Renderers.
 
